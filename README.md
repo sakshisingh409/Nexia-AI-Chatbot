@@ -1,6 +1,6 @@
 ### NexiaX - AI Chatbot with DeepThink Mode
 ---
-<img width="450" height="250" alt="NexiaX_logo" src="https://github.com/user-attachments/assets/380248f2-4077-4cf2-b0ea-ba7053f58cd5" />
+<img width="450" height="250" alt="NexiaX_logo" src="https://github.com/user-attachments/assets/1390f17c-bae0-46bc-a570-4d277963713f" />
 
 ### 🚀About NexiaX 
 ---
@@ -14,7 +14,7 @@ NexiaX is a modern AI-powered chatbot application featuring:
 * Conversation history management
 
 
-https://github.com/user-attachments/assets/a3257ba7-9c7f-4246-bf73-7b18c484bcd7
+https://github.com/user-attachments/assets/108383a4-2eb7-412b-97af-0265d34ce5df
 
 
 ### ✨Key Features
